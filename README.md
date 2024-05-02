@@ -1,4 +1,4 @@
-# FAKE NEWS DETECTOR with scikit-learn Classifiers
+# FAKE NEWS DETECTOR with scikit-learn Classifiers, Simplilearn tutorial
 
 Using the training data from the two CSV files, we perform some formatting and also add a boolean field to the data to distinguish fake from true
 
@@ -17,3 +17,8 @@ Gradient Boosting
 Random Forest
 
 In the manual_testing function, we pass a string to the functino which creates a DataFrame, apply the word parser, do the vectorization, then predict using the four classifiers.
+
+The full dataset for the training of the classifiers can be found here:
+https://drive.google.com/drive/folders/1ByadNwMrPyds53cA6SDCHLelTAvIdoF_  
+
+Too large to upload here
